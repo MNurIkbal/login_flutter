@@ -23,3 +23,5 @@ TextStyle greyTextStyle = GoogleFonts.dmSans(color: greyColor);
 TextStyle succescolor = GoogleFonts.dmSans(color: successColor);
 
 FontWeight bold = FontWeight.bold;
+
+const Color hijauMuda = Color.fromRGBO(57, 206, 191, 0.988);
